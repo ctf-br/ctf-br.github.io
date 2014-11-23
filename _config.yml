@@ -1,0 +1,12 @@
+# Site settings
+title: CTF-BR
+email: contato@ctf-br.org
+description: > # this means to ignore newlines until "baseurl:"
+  CTF-BR - CTF do Brasil =)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://ctf-br.org" # the base hostname & protocol for your site
+twitter_username: ctf-br
+github_username:  ctf-br
+
+# Build settings
+markdown: kramdown
