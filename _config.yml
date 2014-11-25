@@ -10,3 +10,8 @@ github_username:  ctf-br
 
 # Build settings
 markdown: kramdown
+
+collections:
+  writeups:
+    output: true
+    permalink: /writeups/:path/

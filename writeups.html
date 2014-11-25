@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h2>Write-ups</h2>
+{% assign writeups = site.writeups | where: 'published', true %}
+{% for writeup in writeups %}
+	<a href="{{ writeup.url }} ">{{ writeup.event }} - {{ writeup.challenge }}</a> por {{ writeup.author }}<BR/>
+{% endfor %}
