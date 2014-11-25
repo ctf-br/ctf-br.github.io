@@ -2,10 +2,10 @@
 title: CTF-BR
 email: contato@ctf-br.org
 description: > # this means to ignore newlines until "baseurl:"
-  CTF-BR - CTF do Brasil =)
+  CTF-BR - Guiando você no mundo dos CTFs =)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ctf-br.org" # the base hostname & protocol for your site
-twitter_username: ctf-br
+twitter_username: ctfbr
 github_username:  ctf-br
 
 # Build settings
