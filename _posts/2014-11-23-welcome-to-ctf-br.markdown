@@ -5,7 +5,7 @@ date:   2014-11-23 11:24:22
 categories: general
 ---
 
-Como podes ver, nossa equipe de técnicos e especialistas está trabalhando duro para deixar esse (blog|site|repositório) pronto o mais breve possível.
+Como podes ver, nossa equipe de técnicos e especialistas está trabalhando duro para deixar esse `(blog|site|repositório)` pronto o mais breve possível.
 
 
 ![alt text][working]
